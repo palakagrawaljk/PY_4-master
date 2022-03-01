@@ -1,0 +1,6 @@
+report-id,wzn862
+website,https://httpbin.org/
+total-links,5
+external-references,"[['https://github.com/rochacbruno/flasgger', '1.52s'], ['https://kennethreitz.org', '3.66s'], ['https://github.com/requests/httpbin', '1.1s']]"
+internal-references,"[['https://httpbin.org/forms/post', '1.15s']]"
+broken-links,"[['mailto://me@kennethreitz.org', 'ror unknown url type: mailto>']]"
